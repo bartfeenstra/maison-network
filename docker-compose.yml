@@ -1,6 +1,6 @@
 version: '3.4'
 services:
-  hab:
+  controller:
     image: jacobalberty/unifi:5.9
     restart: always
     volumes:
